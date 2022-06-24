@@ -2,7 +2,7 @@
 
 ScreenShots - Native App
 
-<div >
+<div align="center">
 
 
     <img src="/assets/screenshot/Screenshot_20220625-003650_FoodDeliveryLiteApp.jpg" width="250px"style="max-width: 100%;"</img> 
