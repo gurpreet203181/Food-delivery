@@ -1,5 +1,6 @@
 # Food-delivery
 QuickEats is a dynamic food delivery app designed to bring your favorite meals directly to your doorstep, quickly and efficiently. With an intuitive interface, QuickEats connects you with a wide range of local restaurants and food joints, allowing you to browse menus, read reviews, and place orders seamlessly. Featuring real-time order tracking, secure payment options, and personalized recommendations, QuickEats is dedicated to enhancing your dining experience by making it convenient, fast, and satisfying.
+
 ScreenShots - Native App
 
 <div>
